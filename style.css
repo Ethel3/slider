@@ -8,3 +8,10 @@
     height: 100vh;
     background: #222;
 }
+.swiper{
+    width: 80%;
+    height: fit-content;
+}
+.swiper-slide img{
+    width: 100%;
+}
