@@ -18,3 +18,9 @@
 .swiper-slide img{
     width: 100%;
 }
+.swiper .swiper-button-prev, .swiper .swiper-button-next{
+    color: #fff;
+}
+.swiper .swiper-pagination-bullet-active{
+    background: #fff;
+}
